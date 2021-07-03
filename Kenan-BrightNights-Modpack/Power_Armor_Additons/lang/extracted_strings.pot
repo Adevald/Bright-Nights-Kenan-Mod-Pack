@@ -1,0 +1,54 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Power_Armor_Additions\n"
+"POT-Creation-Date: 2021-06-29 20:58+0300\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Power_Armor.json
+msgid "power armor magnetic holster"
+msgid_plural "power armor magnetic holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for power armor magnetic holster.
+#. ~ Use action holster_msg for power armor magnetic back mount.
+#: ./Power_Armor.json
+msgid "You attach your %s"
+msgstr ""
+
+#. ~ Use action holster_prompt for power armor magnetic holster.
+#. ~ Use action holster_prompt for power armor magnetic back mount.
+#: ./Power_Armor.json
+msgid "Attach Weapon"
+msgstr ""
+
+#. ~ Description for power armor magnetic holster
+#: ./Power_Armor.json
+msgid "A magnetic mount to hold a sidearm or blade."
+msgstr ""
+
+#: ./Power_Armor.json
+msgid "power armor magnetic back mount"
+msgid_plural "power armor magnetic back mounts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for power armor magnetic back mount
+#: ./Power_Armor.json
+msgid ""
+"A magnetic mount on the back of the power armor for use with larger "
+"firearms."
+msgstr ""
+
+#: ./modinfo.json
+msgid "Power_Armor_Additions"
+msgstr ""
+
+#. ~ Description for Power_Armor_Additions
+#: ./modinfo.json
+msgid "Adds holsters and sheaths for power armor."
+msgstr ""

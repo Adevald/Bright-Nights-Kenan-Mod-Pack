@@ -1,0 +1,59 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Power_Armor_Additions\n"
+"POT-Creation-Date: 2021-06-29 20:58+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: Power_Armor.json
+msgid "power armor magnetic holster"
+msgid_plural "power armor magnetic holsters"
+msgstr[0] "магнитная кобура для силовой брони"
+msgstr[1] "магнитные кобуры для силовой брони"
+msgstr[2] "магнитных кобур для силовой брони"
+
+#. ~ Use action holster_msg for power armor magnetic holster.
+#. ~ Use action holster_msg for power armor magnetic back mount.
+#: Power_Armor.json
+msgid "You attach your %s"
+msgstr "Вы прикрепляете свой %s"
+
+#. ~ Use action holster_prompt for power armor magnetic holster.
+#. ~ Use action holster_prompt for power armor magnetic back mount.
+#: Power_Armor.json
+msgid "Attach Weapon"
+msgstr "Прикрепить оружие"
+
+#. ~ Description for power armor magnetic holster
+#: Power_Armor.json
+msgid "A magnetic mount to hold a sidearm or blade."
+msgstr "Магнитное крепление для фиксации пистолета или ножа."
+
+#: Power_Armor.json
+msgid "power armor magnetic back mount"
+msgid_plural "power armor magnetic back mounts"
+msgstr[0] "заднее магнитное крепление для силовой брони"
+msgstr[1] "задних магнитных крепления для силовой брони"
+msgstr[2] "задних магнитных креплений для силовой брони"
+
+#. ~ Description for power armor magnetic back mount
+#: Power_Armor.json
+msgid "A magnetic mount on the back of the power armor for use with larger firearms."
+msgstr "Магнитное крепление на задней части силовой брони для использования с большим огнестрельным оружием."
+
+#: modinfo.json
+msgid "Power_Armor_Additions"
+msgstr "Power_Armor_Additions"
+
+#. ~ Description for Power_Armor_Additions
+#: modinfo.json
+msgid "Adds holsters and sheaths for power armor."
+msgstr "Добавляет кобуры и ножны для силовой брони."

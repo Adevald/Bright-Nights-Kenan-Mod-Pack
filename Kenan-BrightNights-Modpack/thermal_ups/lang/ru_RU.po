@@ -8,7 +8,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: \n"
 "Language-Team: CV514\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 2.3\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\modinfo.json
 msgid "Thermal Electric UPS"
-msgstr "УБП термобельё"
+msgstr "Thermal Electric UPS"
 
 #. ~ Description for Thermal Electric UPS
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\modinfo.json
@@ -30,9 +30,9 @@ msgstr "Небольшой мод, добавляющий варианты те�
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\tups_tool_armor.json
 msgid "thermal electric suit (UPS)"
 msgid_plural "thermal electric suit (UPS)s"
-msgstr[0] "термобельё (УБП)"
-msgstr[1] "термобелья (УБП)"
-msgstr[2] "термобелья (УБП)"
+msgstr[0] "комплект термобелья (УБП) (выкл)"
+msgstr[1] "комплекта термобелья (УБП) (выкл)"
+msgstr[2] "комплектов термобелья (УБП) (выкл)"
 
 #. ~ Use action msg for thermal electric suit (UPS).
 #. ~ Use action msg for {'str': 'thermal electric outfit (UPS)', 'str_pl':
@@ -55,9 +55,9 @@ msgstr ""
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\tups_tool_armor.json
 msgid "thermal electric suit (UPS) (on)"
 msgid_plural "thermal electric suits (UPS) (on)"
-msgstr[0] "термобельё (УБП) (вкл)"
-msgstr[1] "термобелья (УБП) (вкл)"
-msgstr[2] "термобелья (УБП) (вкл)"
+msgstr[0] "комплект термобелья (УБП) (вкл)"
+msgstr[1] "комплекта термобелья (УБП) (вкл)"
+msgstr[2] "комплектов термобелья (УБП) (вкл)"
 
 #. ~ Use action menu_text for {'str': 'thermal electric suit (UPS) (on)',
 #. 'str_pl': 'thermal electric suits (UPS) (on)'}.
@@ -86,14 +86,14 @@ msgstr ""
 "Полноразмерный костюм из тонкого термобелья, оснащенный внутренними "
 "нагревательными элементами, работающими от УБП. Он теплее, чем его аналог, "
 "работающий от батареи. В настоящее время он включен и постоянно расходует "
-"энергию УБП.  Используйте, чтобы выключить."
+"энергию УБП. Используйте, чтобы выключить."
 
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\tups_tool_armor.json
 msgid "thermal electric outfit (UPS)"
 msgid_plural "thermal electric outfits (UPS)"
-msgstr[0] "термальный комбинезон (УБП)"
-msgstr[1] "термальных комбинезона (УБП)"
-msgstr[2] "термальных комбинезонов (УБП)"
+msgstr[0] "костюм из термобелья (УБП) (выкл)"
+msgstr[1] "костюма из термобелья (УБП) (выкл)"
+msgstr[2] "костюмов из термобелья (УБП) (выкл)"
 
 #. ~ Description for {'str': 'thermal electric outfit (UPS)', 'str_pl':
 #. 'thermal electric outfits (UPS)'}
@@ -110,9 +110,9 @@ msgstr ""
 #: D:\Games\Cataclysm BN\data\mods\thermal_ups\tups_tool_armor.json
 msgid "thermal electric outfit (UPS) (on)"
 msgid_plural "thermal electric outfits (UPS) (on)"
-msgstr[0] "термальный комбинезон (УБП) (вкл)"
-msgstr[1] "термальных комбинезона (УБП) (вкл)"
-msgstr[2] "термальных комбинезонов (УБП) (вкл)"
+msgstr[0] "костюм из термобелья (УБП) (вкл)"
+msgstr[1] "костюма из термобелья (УБП) (вкл)"
+msgstr[2] "костюм из термобелья (УБП) (вкл)"
 
 #. ~ Description for {'str': 'thermal electric outfit (UPS) (on)', 'str_pl':
 #. 'thermal electric outfits (UPS) (on)'}

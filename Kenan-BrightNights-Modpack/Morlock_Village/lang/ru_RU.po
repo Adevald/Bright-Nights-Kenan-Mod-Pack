@@ -1,0 +1,766 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: morlock_village\n"
+"POT-Creation-Date: 2021-06-30 09:47+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: items.json
+msgid "underground map"
+msgid_plural "underground maps"
+msgstr[0] "подземная карта"
+msgstr[1] "подземные карты"
+msgstr[2] "подземных карт"
+
+#. ~ Use action message for underground map.
+#: items.json
+msgid "You add the underground sites to your map."
+msgstr "Вы добавляете подземные места на свою карту."
+
+#. ~ Description for underground map
+#: items.json
+msgid ""
+"This is a crude map of the local sewers and subways.  It has a few "
+"additional sites as well."
+msgstr ""
+"Это грубая рукописная карта местных канализаций и метрополитенов. На ней "
+"также есть несколько дополнительных мест."
+
+#: items.json
+msgid "morlock cookbook"
+msgid_plural "morlock cookbooks"
+msgstr[0] "кулинарная книга морлоков"
+msgstr[1] "кулинарные книги морлоков"
+msgstr[2] "кулинарных книг морлоков"
+
+#. ~ Description for morlock cookbook
+#: items.json
+msgid ""
+"A hand written notebook full of nightmarish Morlock recipes, such as rat "
+"soup, cockroach stirfry, worm-in-a-blanket, and others.  But there are a few "
+"useful recipes mixed in with the bad."
+msgstr ""
+"Рукописный блокнот, полный кошмарных рецептов морлоков, таких как крысиный "
+"суп, тараканье жаркое, червяк в одеяле и многие другие. Но среди них есть и "
+"несколько полезных рецептов."
+
+#: items.json
+msgid "mush-tea"
+msgid_plural "mush-tea"
+msgstr[0] "грибной чай"
+msgstr[1] "солнечный напиток"
+msgstr[2] "солнечный напиток"
+
+#. ~ Description for {'str': 'mush-tea', 'str_pl': 'mush-tea'}
+#: items.json
+msgid "A healthy beverage made from mushrooms steeped in boiling water."
+msgstr "Полезный напиток из грибов, заваренных в кипятке."
+
+#: items.json
+msgid "glowing mushroom"
+msgid_plural "glowing mushrooms"
+msgstr[0] "светящийся гриб"
+msgstr[1] "светящихся гриба"
+msgstr[2] "светящихся грибов"
+
+#. ~ Use action activation_message for glowing mushroom.
+#: items.json
+msgid "You eat the magic."
+msgstr "Магия растекается по вашему телу."
+
+#. ~ Description for glowing mushroom
+#: items.json
+msgid ""
+"A mutated mushroom that gives off a faint phosporescent glow.  Not safe to "
+"eat in this state."
+msgstr ""
+"Мутировавший гриб, излучающий слабое фосфоресцентное свечение. В таком "
+"состоянии небезопасен для употребления в пищу."
+
+#: items.json
+msgid "glowing mushroom spores"
+msgid_plural "glowing mushroom spores"
+msgstr[0] "споры светящихся грибов"
+msgstr[1] "споры светящихся грибов"
+msgstr[2] "споры светящихся грибов"
+
+#: items.json
+msgid "dried glowing mushroom"
+msgid_plural "dried glowing mushrooms"
+msgstr[0] "сушеный светящийся гриб"
+msgstr[1] "сушеных светящихся гриба"
+msgstr[2] "сушеных светящихся грибов"
+
+#. ~ Description for dried glowing mushroom
+#: items.json
+msgid ""
+"A mutant mushroom.  It no longers glows with phosphorescent light, but still "
+"looks unsafe to eat."
+msgstr ""
+"Мутировавший гриб. Он больше не светится фосфоресцирующим светом, но все еще "
+"выглядит небезопасным для употребления в пищу."
+
+#: items.json
+msgid "magic tea"
+msgid_plural "magic tea"
+msgstr[0] "волшебный чай"
+msgstr[1] "волшебный чай"
+msgstr[2] "волшебный чай"
+
+#. ~ Use action activation_message for {'str': 'magic tea', 'str_pl': 'magic
+#. tea'}.
+#: items.json
+msgid "You drink the magic."
+msgstr "Магия растекается по вашему телу."
+
+#. ~ Description for {'str': 'magic tea', 'str_pl': 'magic tea'}
+#: items.json
+msgid ""
+"A healthy beverage made from mutated mushrooms steeped in hot water.  May "
+"cause hallucinations."
+msgstr ""
+"Полезный напиток из мутировавших грибов, заваренных в горячей воде. Может "
+"вызывать галлюцинации."
+
+#: items.json
+msgid "sunshine mash"
+msgid_plural "sunshine mashes"
+msgstr[0] "грибное сусло"
+msgstr[1] "грибное сусло"
+msgstr[2] "грибное сусло"
+
+#. ~ Description for {'str': 'sunshine mash', 'str_pl': 'sunshine mashes'}
+#: items.json
+msgid ""
+"Unfermented sunshine.  Just some water, sugar, and glowing mutant mushrooms, "
+"just like Urist used to make."
+msgstr ""
+"Несброженный самогон. Просто немного воды, сахара и светящихся мутировавших "
+"грибов, как делал Урист."
+
+#: items.json
+msgid "sunshine wash"
+msgid_plural "sunshine washes"
+msgstr[0] "мутный самогон"
+msgstr[1] "мутный самогон"
+msgstr[2] "мутный самогон"
+
+#. ~ Description for {'str': 'sunshine wash', 'str_pl': 'sunshine washes'}
+#: items.json
+msgid ""
+"Fermented, but not distilled sunshine.  Contains all the contaminants you "
+"don't want in your sunshine."
+msgstr ""
+"Сброженный, но не очищенный самогон. Содержит все загрязнения, которые вы не "
+"хотите видеть в своем самогоне."
+
+#: items.json
+msgid "sunshine"
+msgid_plural "sunshine"
+msgstr[0] "грибной самогон"
+msgstr[1] "грибной самогон"
+msgstr[2] "грибной самогон"
+
+#. ~ Description for {'str': 'sunshine', 'str_pl': 'sunshine'}
+#: items.json
+msgid ""
+"Only the strongest, purest, good ol' fashioned hooch, distilled from glowing "
+"mushrooms and sugar.  The prefered drink of all subterranean people."
+msgstr ""
+"Только самый крепкий, чистый, старый добрый самогон, полученный дистилляцией "
+"из светящихся грибов и сахара. Предпочтительный напиток всех подземных "
+"жителей."
+
+#: mammal.json
+msgid "cave piglet"
+msgid_plural "cave piglets"
+msgstr[0] "пещерный поросенок"
+msgstr[1] "пещерных поросена"
+msgstr[2] "пещерных поросят"
+
+#. ~ Description for cave piglet
+#. ~ Description for cave pig
+#: mammal.json
+msgid ""
+"A mutant omnivore descended from the domestic pig.  It has adapted to life "
+"underground by losing all skin pigment, going blind, and becoming even less "
+"picky about what it eats."
+msgstr ""
+"Всеядный мутант, произошедший от домашней свиньи. Он приспособился к жизни "
+"под землей, потеряв кожный пигмент, ослепнув и став еще менее требовательным "
+"к тому, что ест."
+
+#: mammal.json
+msgid "cave pig"
+msgid_plural "cave pigs"
+msgstr[0] "пещерная свинья"
+msgstr[1] "пещерные свиньи"
+msgstr[2] "пещерных свиней"
+
+#: modinfo.json
+msgid "Morlock Village"
+msgstr "Morlock Village"
+
+#. ~ Description for Morlock Village
+#: modinfo.json
+msgid "Adds an underground village of mutant NPCs.  Connects to subways."
+msgstr ""
+"Добавляет подземную деревню с NPC-мутантами. Соединяется с метрополитенами."
+
+#: overmap_terrain.json
+msgid "morlock_village"
+msgstr "деревня морлоков"
+
+#: terrain.json
+msgid "giant mushroom"
+msgstr "гигантский гриб"
+
+#. ~ Description for giant mushroom
+#: terrain.json
+msgid "A Terrestrial mushroom that has mutated to an enormous size."
+msgstr "Земной гриб, мутировавший до огромных размеров."
+
+#: terrain.json
+msgid "crunch!"
+msgstr "хруст!"
+
+#: terrain.json
+msgid "whack!"
+msgstr "хрясь!"
+
+#: NPC/TALK_MORLOCK_GUARD.json
+msgid "Only two rules in the Morlock Village.  Be cool.  Don't be uncool."
+msgstr "В Деревне Морлоков только два правила. Будь крутым. Не будь некрутым."
+
+#: NPC/TALK_MORLOCK_GUARD.json
+msgid "Got it."
+msgstr "Понятно."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Hello.  Can I help you find something?"
+msgstr "Привет. Могу я помочь тебе найти что-нибудь?"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "So what's your deal?  You're like a book guy or something?"
+msgstr "Так, чем ты занимаешься? Ты книголюб или около того?"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm desperate for a specific book. Can you help me?"
+msgstr "Я отчаянно нуждаюсь в конкретной книге. Вы можете мне помочь?"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "How's the hunt, <name_g>?"
+msgstr "Как охота, <name_g>?"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Is my order in?"
+msgstr "Была ли моя просьба выслушана?"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Later, book man."
+msgstr "Пока."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"Precisely.  I gather books to preserve the memories of human civilization.  "
+"Sometimes, when I have extra copies, I distribute them to the public.  Feel "
+"free to checkout what you like from the shelves."
+msgstr ""
+"Именно. Я собираю книги, чтобы сохранить память о человеческой цивилизации. "
+"Иногда, когда у меня есть лишние экземпляры, я раздаю их публике. Не бойся "
+"брать с полок то, что тебе понравится."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Sounds reasonable."
+msgstr "Звучит вполне разумно."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"I often search for rare books.  I can sell you a specific book, but it will "
+"take several days for my field agents to locate it.  And then there's the "
+"price-- I charge for my time, not the value of the book.  It will be $10,000 "
+"paid up front.  If you're still interested, we can make a deal."
+msgstr ""
+"Я часто ищу редкие книги. Я могу продать тебе конкретную книгу, но моим "
+"сотрудникам потребуется несколько дней, чтобы найти ее. И цена - я беру за "
+"свое время, а не за стоимость книги. Первоначальный взнос будет стоить 10 "
+"000 долларов. Если вы все еще заинтересованы, мы можем заключить сделку."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] I want to locate a book on glass-blowing."
+msgstr "[$10k] Я хочу найти книгу о выдувании стекла."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] A robot-hacking manual is my first priority."
+msgstr "[$10k] Руководство по взлому роботов - моя приоритетная цель."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] I need info on crafting katanas. Lots of 'em."
+msgstr ""
+"[$10k] Мне нужна информация про изготовление катан. В большом количестве."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] I would literally kill a man for a sushi cookbook."
+msgstr "[$10k] Я бы буквально убил человека за книгу рецептов суши."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] I have a burning passion for chemical warfare."
+msgstr "[$10k] У меня пламенная страсть к химической войне."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[$10k+CANNIBAL] For no particular reason, I would like a human cookbook."
+msgstr ""
+"[$10k] Без особой причины я хотел бы получить кулинарную книгу с рецептами "
+"блюд из человечины."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "[$10k] I would like anything you can find on fake fur."
+msgstr ""
+"[$10k] Я хотел бы получить все, что вы можете найти про искусственный мех."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[$1k] I, like you, also hope to preserve human civilization.  I'm collecting "
+"every back issue of Playboy and I will pay ANY price to make that dream a "
+"reality."
+msgstr ""
+"[$1k] Я, как и вы, тоже надеюсь сохранить человеческую цивилизацию. Я "
+"собираю все последние выпуски Playboy и заплачу ЛЮБУЮ цену, чтобы сделать "
+"свою мечту реальной."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm a little short on funds right now.  Maybe later.."
+msgstr "Сейчас у меня немного не хватает денег. Может быть, позже..."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Nevermind."
+msgstr "Не обращай внимания."
+
+# В самой игре так и не обнаружил эту фразу, нужно ли оставлять 'articles', мне неизвестно
+# Думаю лучше заменить чем оставить, возможно это английский вариант кавычек, а не функция
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Ugh.  Fine.  Come back in three days for your 'articles'."
+msgstr "Ух. Отлично. Приходите через три дня за своими книгами."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "We have a deal then.  Return in three days and I will have your book."
+msgstr "Тогда договорились. Вернетесь через три дня, и книга будет у меня."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "I'll be here!"
+msgstr "Я приду!"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"We haven't found it yet.  Come back in a few days. (ooc note: Currently NPCs "
+"must be in your reality bubble for their effect timer to count down.)"
+msgstr ""
+"Мы еще не нашли ее. Приходите через несколько дней. (Примечание: в настоящее "
+"время NPC должны находиться в вашей зоне прогрузки, чтобы их таймер отсчета "
+"действовал)."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "I need that book!"
+msgstr "Мне необходима эта книга!"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "We've located a copy of your book.  Happy reading."
+msgstr "Мы нашли экземпляр книги. Счастливого чтения."
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*The Art of Glassblowing*"
+msgstr "*Искусство стеклодувного дела*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Robots for Fun & Profit*"
+msgstr "*Роботы для веселья и прибыли*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Swords of the Samurai*"
+msgstr "*Мечи Самурая*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Sushi Made Easy*"
+msgstr "*Суши - это просто*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Art and Science of Chemical Warfare*"
+msgstr "*Искусство и наука химической войны*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*To Serve Man*"
+msgstr "*Как приготовить человека*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Friendly, Humane Fashion*"
+msgstr "*Дружелюбная, Гуманная Мода*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "*Playboy*"
+msgstr "*Плейбой*"
+
+#: NPC/TALK_MORLOCK_LIBRARIAN.json
+msgid "Just a minute."
+msgstr "Минутку."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "How goes it, surface dweller?"
+msgstr "Как дела, поверхностный обитатель?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Holy, <swear!>! Fungus!  Burn it!"
+msgstr "Господи, <swear!>, Грибы! Сжечь их!"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "So, you're a farmer...   Underground."
+msgstr "Значит, вы фермер... Под землей."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json NPC/TALK_MORLOCK_TRADER.json
+msgid "Who are you people anyway?"
+msgstr "Кто вы вообще такие?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Can I join your group?"
+msgstr "Могу ли я присоединиться к вашей группе?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json NPC/TALK_MORLOCK_TRADER.json
+msgid "What sort of things do you trade?"
+msgstr "Вы чем-то торгуете?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json NPC/TALK_MORLOCK_TRADER.json
+msgid "Let's trade."
+msgstr "Давай обменяемся."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json NPC/TALK_MORLOCK_TRADER.json
+msgid "Later, man."
+msgstr "Пока."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Don't worry.  These are mutant mushrooms, not alien mushrooms.  They won't "
+"take over your brain much."
+msgstr ""
+"Не беспокойся. Это мутировавшие грибы, а не инопланетные. Они не сильно "
+"завладеют вашим мозгом."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Thank God for that."
+msgstr "Слава Богу."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Just a crusty old shroomer.  I've been growing mushrooms, of one type or "
+"another, for many years.  But they didn't used to get quite so big."
+msgstr ""
+"Просто старый и дряхлый грибник. Я выращиваю грибы, того или иного вида, уже "
+"много лет. Но раньше они не были такими, большими.."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "I see that."
+msgstr "Понятно."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid ""
+"We're the Morlocks, a bunch of weirdos who couldn't fit in with the rest of "
+"the world.  But now we're the most normal people left."
+msgstr ""
+"Мы - Морлоки, кучка чудаков, которые не могли приспособиться к остальному "
+"миру. Но теперь мы самые нормальные из оставшихся людей."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "I'm not so sure about that."
+msgstr "Не думаю что это так."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid ""
+"There's no official way to join.  Just move into an empty house, and in a "
+"decade or two you'll be a morlock."
+msgstr ""
+"Нет никакого официального способа присоединиться. Просто переезжай в пустой "
+"дом, и через десяток-другой лет ты станешь морлоком."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Very laid back."
+msgstr "Весьма, просто.."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid ""
+"The Morlocks are always short on food since not much grows down here in the "
+"dark.  I got no surplus crops to sell.  But if you could get me some "
+"fertilizer, I'd help you kickstart your own shroom-room.  I'll swap you 12 "
+"seeds for each bag of commercial fertilizer you haul down here.  Not much, "
+"but it get will you started."
+msgstr ""
+"Морлокам всегда не хватало еды, поскольку в темноте здесь мало что растет. У "
+"меня нет излишков урожая, чтобы продавать их. Но если ты сможешь достать мне "
+"немного удобрений, я помогу тебе запустить свою собственную грибницу. Я "
+"обменяю тебе по 12 семян на каждый мешок удобрений, которые ты сюда "
+"притащишь. Не много, но это поможет тебе начать выращивать грибы."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Got it.  Commercial fertilizer."
+msgstr "Понятно. Промышленное удобрение говоришь?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "What shall we trade?"
+msgstr "Чем мы будем торговать?"
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "I'd like to get some seeds, my good shroomer."
+msgstr "Я бы хотел получить семена, мой хороший грибник."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "[$100] I'd like to buy some ~specialty~ mushrooms."
+msgstr "[$100] Я хотел бы купить ~необычные~ грибы."
+
+#: NPC/TALK_MORLOCK_SHROOMER.json
+msgid "Later, <name_g>."
+msgstr "Позже, <name_g>."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "What's up, cool breeze?"
+msgstr "Как дела?"
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Nice place ya got here.  Cozy."
+msgstr "Хорошее место у вас тут, уютно."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Is there any way I can join your group?"
+msgstr "Могу ли я как-нибудь присоединиться к вашей группе?"
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Let's trade then."
+msgstr "Давай поторгуем."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Fuck off, <name_g>.  It's not like we chose to live in the sewer."
+msgstr "Отвали, <name_g>. Мы не выбирали жизнь в канализации."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Well, it kept you alive.  So it can't be that bad."
+msgstr "Ну, это сохранило тебе жизнь. Так что это не так уж плохо."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid ""
+"We're the morlocks, a bunch of bums and losers who live underground.  We "
+"aren't organized and we don't have leaders, but we stick together."
+msgstr ""
+"Мы - морлоки, кучка бездельников и неудачников, живущих под землей. Мы не "
+"организованы и у нас нет лидера, но все же мы держимся вместе."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Nice."
+msgstr "Отлично."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid ""
+"Why the hell would you want join us?  Most of us don't want to join us.  "
+"Unless you grow a rat tail or fish-gills you probably won't fit in down here."
+msgstr ""
+"Какого черта вы хотите присоединиться к нам? Большинство не хотят этого "
+"делать. Если ты не отрастишь крысиный хвост или рыбьи жабры, ты, вероятно, "
+"не впишешься сюда."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "I'll see what I can do."
+msgstr "Посмотрим, что можно сделать."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid ""
+"We're always in the market for raw mutagen and purifier.  I can pay you a "
+"whopping 500 old world credits for each flask of standard mutagen or "
+"purifier you bring in.  I can also exchange unflavored mutagen for more "
+"advanced types, if you're interested in such things."
+msgstr ""
+"У нас всегда есть спрос на мутаген и пурификатор. Я могу дать тебе кредит, в "
+"целых 500$ старого мира за колбу обычного мутагена или пурификатора, которую "
+"ты принесешь. Я также могу обменять мутаген на более продвинутые его виды, "
+"если вас интересуют такие вещи."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "Got it.  Mutagen.  Purifier."
+msgstr "Понятно, мутаген и пурификатор."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "What'll it be then?"
+msgstr "И что же это будет?"
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[10] Got some fresh-squeezed mutagens for ya."
+msgstr "[10] У меня есть целая партия свежевыжатого мутагена для тебя."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of mutagen for ya."
+msgstr "[1] У меня есть мутаген для тебя."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[10] Got a batch of purifier for ya."
+msgstr "[10] У меня есть целая партия пурификатора для тебя."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of purifier for ya."
+msgstr "[1] У меня есть пурификатор для тебя."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[10] Have anything rat-flavored?"
+msgstr "[10] Я бы хотел получить сыворотку мыши, <name_g>."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[10] I'd like a hit of trog-serum, <name_g>."
+msgstr "[10] Я бы хотел получить лягушачью сыворотку, <name_g>."
+
+#: NPC/TALK_MORLOCK_TRADER.json
+msgid "[10] Gimme some of that sweet fish-juice."
+msgstr "[10] Я бы хотел получить сыворотку рыбы, <name_g>."
+
+#: NPC/classes.json
+msgid "morlock"
+msgstr "морлок"
+
+#: NPC/classes.json
+msgid "I live in the sewer now.  That about sums it up."
+msgstr "Теперь я живу в канализации. Вот и все."
+
+#: NPC/classes.json
+msgid "morlock trader"
+msgstr "торговец морлоков"
+
+#: NPC/classes.json
+msgid "I make trade deals for the morlocks."
+msgstr "Я провожу торговые сделки за морлоков."
+
+#: NPC/classes.json
+msgid "morlock librarian"
+msgstr "библиотекарь морлоков"
+
+#: NPC/classes.json
+msgid "I gather and preserve books."
+msgstr "Я собираю и храню книги."
+
+#: NPC/effects.json
+msgid "Searching for your Book"
+msgstr "Поиск вашей книги"
+
+#. ~ Description of effect 'Searching for your Book'.
+#. ~ Description of effect 'removing effect'.
+#. ~ Description of effect 'Searching for Art of Glassblowing'.
+#. ~ Description of effect 'Searching for Robots for Fun & Profit'.
+#. ~ Description of effect 'Searching for Swords of the Samurai'.
+#. ~ Description of effect 'Searching for the Art and Science of Chemical
+#. Warfare'.
+#. ~ Description of effect 'Searching for Sushi Made Easy'.
+#. ~ Description of effect 'Searching for To Serve Man'.
+#. ~ Description of effect 'Searching for Friendly Fashion'.
+#. ~ Description of effect 'Searching for Playboy magazines'.
+#: NPC/effects.json
+msgid "AI tag.  This is a bug if you have it."
+msgstr "Тег искуственного интеллекта. Это баг, если он у вас есть."
+
+#: NPC/effects.json
+msgid "Located your Book"
+msgstr "Местоположение вашей книги"
+
+#. ~ Description of effect 'Located your Book'.
+#: NPC/effects.json
+msgid ""
+"AI tag.  This is a bug if you have it.  Book isn't actually available until "
+"search timer runs out."
+msgstr ""
+"Тег искусственного интеллекта. Это баг, если он у вас есть. Книга на самом "
+"деле недоступна, пока не истечет время поиска."
+
+#: NPC/effects.json
+msgid "removing effect"
+msgstr "удаление эффекта"
+
+#: NPC/effects.json
+msgid "Searching for Art of Glassblowing"
+msgstr "Поиск книги \"Искусство стеклодувного дела\""
+
+#: NPC/effects.json
+msgid "Searching for Robots for Fun & Profit"
+msgstr "Поиск книги \"Роботы для веселья и прибыли\""
+
+#: NPC/effects.json
+msgid "Searching for Swords of the Samurai"
+msgstr "Поиск книги \"Мечи Самурая\""
+
+#: NPC/effects.json
+msgid "Searching for the Art and Science of Chemical Warfare"
+msgstr "Поиск книги \"Искусство и наука химической войны\""
+
+#: NPC/effects.json
+msgid "Searching for Sushi Made Easy"
+msgstr "Поиск книги \"Суши - это просто\""
+
+#: NPC/effects.json
+msgid "Searching for To Serve Man"
+msgstr "Поиск книги \"Как приготовить человека\""
+
+#: NPC/effects.json
+msgid "Searching for Friendly Fashion"
+msgstr "Поиск книги \"Дружелюбная, Гуманная Мода\""
+
+#: NPC/effects.json
+msgid "Searching for Playboy magazines"
+msgstr "Поиск журналов \"Плейбой\""
+
+#: NPC/factions.json
+msgid "Morlocks"
+msgstr "Морлоки"
+
+#. ~ Description for Morlocks
+#: NPC/factions.json
+msgid ""
+"Before the Cataclysm a loose collection of drifters, hobos, addicts, and "
+"other homeless people took shelter in the abandoned tunnels beneath New "
+"England, largely ignored by the authorities and townsfolk.  Their hidden "
+"sanctuary allowed them to survive the first wave of horrors, but not "
+"unscathed.  Many of them have begun to show signs of change, biological "
+"adaptions to their new underground home.  Despite their weird appearance and "
+"reclusive nature, the Morlocks are friendly to those surface-dwellers "
+"willing to trade."
+msgstr ""
+"До наступления Катаклизма группа бродяг, наркоманов и других бездомных "
+"укрывалась в заброшенных туннелях под Новой Англией, в основном игнорируемая "
+"властями и горожанами. Их тайное убежище позволило им пережить первую волну "
+"катастроф, но далеко не без потерь. Многие из них начали замечать изменения, "
+"биологическую адаптацию к своему новому подземному дому. Несмотря на свой "
+"странный вид и отшельнический характер, морлоки дружелюбно относятся к "
+"людям, пришедших с поверхности и желающих торговать."
+
+#: NPC/npc.json
+msgid "Morlock"
+msgstr "Морлок"
+
+#: NPC/npc.json
+msgid "Guard"
+msgstr "Охранник"
+
+#: NPC/npc.json
+msgid "Trader"
+msgstr "Торговец"
+
+#: NPC/npc.json
+msgid "Shroomer"
+msgstr "Грибник"
+
+#: NPC/npc.json
+msgid "Librarian"
+msgstr "Библиотекарь"
+
+#. ~ Sign
+#: mapgen/morlock_corner_a.json mapgen/morlock_sewer.json
+msgid "Secret Morlock Village"
+msgstr "Секретная деревня морлоков"

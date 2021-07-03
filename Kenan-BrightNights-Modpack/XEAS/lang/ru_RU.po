@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: XEAS\n"
+"POT-Creation-Date: 2021-06-29 20:11+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: Bag.json
+msgid "xeas bag"
+msgid_plural "xeas bags"
+msgstr[0] "сумка XEAS"
+msgstr[1] "сумки XEAS"
+msgstr[2] "сумок XEAS"
+
+#. ~ Description for xeas bag
+#: Bag.json
+msgid "Small lace bag. But large inside!"
+msgstr "Маленькая кругленькая сумочка. Больше внутри чем снаружи!"
+
+#: Boot.json
+msgid "pair of xeas boot"
+msgid_plural "pairs of xeas boots"
+msgstr[0] "пара ботинок XEAS"
+msgstr[1] ""
+msgstr[2] ""
+
+#. ~ Description for {'str': 'pair of xeas boot', 'str_pl': 'pairs of xeas
+#. boots'}
+#: Boot.json
+msgid "A pair of experimental mix multilayer boots."
+msgstr "Пара экспериментальных многослойных ботинок."
+
+#: Gloves.json
+msgid "pair of xeas gloves"
+msgid_plural "pairs of xeas gloves"
+msgstr[0] "пара перчаток XEAS"
+msgstr[1] "пары перчаток XEAS"
+msgstr[2] "пар перчаток XEAS"
+
+#. ~ Description for {'str': 'pair of xeas gloves', 'str_pl': 'pairs of xeas
+#. gloves'}
+#: Gloves.json
+msgid "A pair of xeas experimental mix multilayer gloves."
+msgstr "Пара экспериментальных многослойных перчаток XEAS."
+
+#: Helmet.json
+msgid "xeas helmet"
+msgid_plural "xeas helmets"
+msgstr[0] "шлем XEAS"
+msgstr[1] "шлема XEAS"
+msgstr[2] "шлемов XEAS"
+
+#. ~ Description for xeas helmet
+#: Helmet.json
+msgid "A experimental mix multilayer helmet."
+msgstr "Экспериментальный многослойный шлем."
+
+#: Mask.json
+msgid "xeas mask"
+msgid_plural "xeas masks"
+msgstr[0] "маска XEAS"
+msgstr[1] "маски XEAS"
+msgstr[2] "масок XEAS"
+
+#. ~ Description for xeas mask
+#: Mask.json
+msgid ""
+"A experimental, mix multilayer reinforced gas mask. Provides excellent "
+"protection from smoke, teargas, and claws. It must be prepared before use."
+msgstr ""
+"Экспериментальный, многослойный армированный противогаз. Обеспечивает "
+"отличную защиту от дыма, слезоточивого газа и когтей. Его необходимо "
+"подготовить перед использованием."
+
+#: Suit.json
+msgid "xeas suit"
+msgid_plural "xeas suits"
+msgstr[0] "костюм XEAS"
+msgstr[1] "костюма XEAS"
+msgstr[2] "костюмов XEAS"
+
+#. ~ Description for xeas suit
+#: Suit.json
+msgid ""
+"A lightweight, experimental mix multilayer armor made from. Protects from "
+"the elements as well as from harm."
+msgstr ""
+"Легкая многослойная броня из экспериментальных материалов. Защищает как от "
+"окружащей среды, так и от физических повреждений."
+
+#: Weapon.json
+msgid "xeas knife"
+msgid_plural "xeas knives"
+msgstr[0] "нож XEAS"
+msgstr[1] "ножа XEAS"
+msgstr[2] "ножей XEAS"
+
+#. ~ Description for {'str': 'xeas knife', 'str_pl': 'xeas knives'}
+#: Weapon.json
+msgid ""
+"Ultra hi-tech, ultra light experimental knife. Does never get damaged when "
+"used as melee weapon."
+msgstr ""
+"Ультра высокотехнологичный, ультралегкий экспериментальный нож. Никогда не "
+"получает повреждений при использовании в качестве оружия ближнего боя."
+
+#: modinfo.json
+msgid "XEAS"
+msgstr "XEAS"
+
+#. ~ Description for XEAS
+#: modinfo.json
+msgid ""
+"Add new Xeno-Adapted Stuff. Close to hi-tech content. Includ armor set "
+"(slightly better protection than survival armor, less encumbrance), new "
+"knife (better butchering, impression damage) and vortex bag (120 L, tiny "
+"size, no encumbrance). Craft recipes in vanilla lab journal. High price. "
+"Late game content!"
+msgstr ""
+"Добавляет новые Ксено-Адаптированные предметы. Контент близкий к "
+"высокотехнологичному уровню. Включает в себя комплект брони (немного выше "
+"защита по сравнению с броней выживальщика, также меньше сковывает), новый "
+"нож (превосходное качество разделки и хороший урон) и вихревой рюкзак (120 "
+"л, крошечный размер, совершенно не сковывает). Рецепты можно найти в "
+"обычном лабораторном журнале. Высокая стоимость."

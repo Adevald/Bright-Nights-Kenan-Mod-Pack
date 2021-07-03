@@ -1,0 +1,988 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tankmod_Revived\n"
+"POT-Creation-Date: 2021-07-01 15:03+0300\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./ammo_types.json
+msgid "105mm shell"
+msgstr ""
+
+#: ./ammo_types.json
+msgid "120mm shell"
+msgstr ""
+
+#: ./ammo_types.json
+msgid "155mm shell"
+msgstr ""
+
+#: ./ammo_types.json
+msgid "25x137mm"
+msgstr ""
+
+#: ./items.json
+msgid "large artillery casing"
+msgid_plural "large artillery casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "25x137mm ammo belt"
+msgid_plural "25x137mm ammo belts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "25x137mm autocannon belt linkage"
+msgid_plural "25x137mm autocannon belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "M792 25x137mm HEI"
+msgid_plural "M792 25x137mm HEI"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M792 25x137mm HEI'}
+#: ./items.json
+msgid ""
+"A 25x137mm autocannon round, high explosive incendiary.  Designed for use "
+"against unarmored vehicles and to suppress infantry."
+msgstr ""
+
+#: ./items.json
+msgid "M791 25x137mm APDS"
+msgid_plural "M791 25x137mm APDS"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M791 25x137mm APDS'}
+#: ./items.json
+msgid ""
+"A 25x137mm autocannon round using an armor-piercing, discarding sabot with a"
+" tungsten penetrator.  Used primarily against light armored vehicles and "
+"aerial targets."
+msgstr ""
+
+#: ./items.json
+msgid "reloaded 25x137mm"
+msgid_plural "reloaded 25x137mm"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'reloaded 25x137mm'}
+#: ./items.json
+msgid ""
+"A 25x137mm autocannon round with its primer replaced, and loaded with a "
+"basic lead projectile.  Not as effective as the real thing, but still fairly"
+" potent."
+msgstr ""
+
+#: ./items.json
+msgid "reloaded 25x137mm, black powder"
+msgid_plural "reloaded 25x137mm, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "M456 105mm HEAT"
+msgid_plural "M456 105mm HEAT"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M456 105mm HEAT'}
+#: ./items.json
+msgid ""
+"A 105mm High Explosive Anti Tank round, designed for older models of tank "
+"held in reserve up until the world was on the brink of ending.  Now that the"
+" world has gone and ended, it still packs quite a punch."
+msgstr ""
+
+#: ./items.json
+msgid "M833 105mm APFSDS"
+msgid_plural "M833 105mm APFSDS"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M833 105mm APFSDS'}
+#: ./items.json
+msgid ""
+"A 105mm Armor-Piercing Fin-Stabilized Discarding Sabot round, no longer "
+"commonly used except for hastily supplying obsolete tanks.  Brought out of "
+"mothballs or not, its depleted uranium projectile will still give whatever "
+"it hits a bad time."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 105mm slug"
+msgid_plural "makeshift 105mm slug"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'makeshift 105mm slug'}
+#: ./items.json
+msgid ""
+"A 105mm shell with a new electric primer installed, loaded with a large "
+"handmade slug.  While hardly ideal, it packs quite a punch."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 105mm slug, black powder"
+msgid_plural "makeshift 105mm slug, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "M830A1 120mm HEAT"
+msgid_plural "M830A1 120mm HEAT"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M830A1 120mm HEAT'}
+#: ./items.json
+msgid ""
+"A 120mm High Explosive Anti Tank round.  Packs an explosive punch that could"
+" ruin anyone's whole day."
+msgstr ""
+
+#: ./items.json
+msgid "M829A3 120mm APFSDS"
+msgid_plural "M829A3 120mm APFSDS"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M829A3 120mm APFSDS'}
+#: ./items.json
+msgid ""
+"A 120mm Armor-Piercing Fin-Stabilized Discarding Sabot round.  Uses a "
+"depleted uranium projectile to give whatever it hits a really bad day."
+msgstr ""
+
+#: ./items.json
+msgid "reloaded 120mm shot"
+msgid_plural "reloaded 120mm shot"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'reloaded 120mm shot'}
+#: ./items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"filled with a large amount of buckshot.  Effectively similar to no-longer-"
+"produced canister shot, but of lower quality."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 120mm shot, black powder"
+msgid_plural "makeshift 120mm shot, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "reloaded 120mm slug"
+msgid_plural "reloaded 120mm slug"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'reloaded 120mm slug'}
+#: ./items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"loaded with a large handmade slug.  While hardly ideal, it packs quite a "
+"punch."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 120mm slug, black powder"
+msgid_plural "makeshift 120mm slug, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "M712 155mm HEAT"
+msgid_plural "M712 155mm HEAT"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M712 155mm HEAT'}
+#: ./items.json
+msgid ""
+"A 155mm High Explosive Anti Tank round, normally laser-guided.  Separate-"
+"loading, it comes with the requisite fuze installed, a propellant bag, and "
+"percussion primer.  As its guidance feature requires a laser designator and "
+"has a minimum range of 3 kilometers, using it for direct fire is an "
+"astounding display of overkill."
+msgstr ""
+
+#: ./items.json
+msgid "M795 155mm frag"
+msgid_plural "M795 155mm frag"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'M795 155mm frag'}
+#: ./items.json
+msgid ""
+"A 155mm High Explosive Fragmentation round.  Separate-loading, it comes with"
+" the requisite fuze installed, a propellant bag, and percussion primer.  "
+"Designed to lob a heavy shell a long distance, using it direct-fire isn't "
+"exactly ideal, but it'll still give anything near what you hit a seriously "
+"bad time."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 155mm shot"
+msgid_plural "makeshift 155mm shot"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'makeshift 155mm shot'}
+#: ./items.json
+msgid ""
+"A makeshift separate-loading shotshell for 155mm.  Consists of a canister of"
+" lead balls, a bag of propellant, and a replacement primer.  Effectively "
+"turns a howitzer into a punt gun on steroids."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 155mm shot, black powder"
+msgid_plural "makeshift 155mm shot, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "makeshift 155mm slug"
+msgid_plural "makeshift 155mm slug"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'makeshift 155mm slug'}
+#: ./items.json
+msgid ""
+"A makeshift separate-loading round for 155mm.  Consists of a large lead "
+"ball, a bag of propellant, and a replacement primer.  Despite the lower "
+"effectiveness, whatever it hits is sure to feel it."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 155mm slug, black powder"
+msgid_plural "makeshift 155mm slug, black powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid "155mm nuclear shell"
+msgid_plural "155mm nuclear shell"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '155mm nuclear shell'}
+#: ./items.json
+msgid ""
+"A makeshift separate-loading round for 155mm, developed from experimental "
+"designs.  Uses a propellant bag and replacement primer to fire a modified "
+"mininuke, adapted to fit a howitzer.  Whatever would warrant such awesome "
+"firepower would best be engaged from a safe distance."
+msgstr ""
+
+#: ./items.json
+msgid "25mm casing"
+msgid_plural "25mm casing"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '25mm casing'}
+#: ./items.json
+msgid "A canister from a spent 25mm shell."
+msgstr ""
+
+#: ./items.json
+msgid "105mm canister"
+msgid_plural "105mm canister"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '105mm canister'}
+#: ./items.json
+msgid "A canister from a spent 105mm shell, now an expensive paperweight."
+msgstr ""
+
+#: ./items.json
+msgid "120mm case base"
+msgid_plural "120mm case base"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '120mm case base'}
+#: ./items.json
+msgid ""
+"The steel case base from a spent 120mm shell.  With combustible case walls "
+"forming the bulk of the casing itself, what's left is now an expensive "
+"paperweight."
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 120mm canister"
+msgid_plural "makeshift 120mm canister"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'makeshift 120mm canister'}
+#: ./items.json
+msgid ""
+"A spent 120mm case base converted into an improved casing, by welding new "
+"case walls of appropriate dimensions to the base.  Hopefully the welds are "
+"good, or else it might be a better fit for a pipe bomb instead."
+msgstr ""
+
+#: ./items.json
+msgid "electric primer"
+msgid_plural "electric primer"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'electric primer'}
+#: ./items.json
+msgid "Primer for a tank shell.  Seems to use an electric ignition."
+msgstr ""
+
+#: ./items.json
+msgid "artillery primer"
+msgid_plural "artillery primer"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'artillery primer'}
+#: ./items.json
+msgid "Primer for an artillery shell.  Uses percussion ignition."
+msgstr ""
+
+#: ./items.json
+msgid "M242 Bushmaster autocannon"
+msgid_plural "M242 Bushmaster autocannon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A chain-driven autocannon chambered in 25x137mm, designed for the Bradley "
+"IFV and other ground vehicles, with some naval use as well.  Electric-"
+"driven, it needs to be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "semi-auto"
+msgstr ""
+
+#: ./items.json
+msgid "low auto"
+msgstr ""
+
+#: ./items.json
+msgid "high auto"
+msgstr ""
+
+#: ./items.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#: ./items.json
+msgid "stripped-down 25mm cannon"
+msgid_plural "stripped-down 25mm cannon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"Modified from a M242 Bushmaster autocannon, this pared down weapon has been "
+"altered into a makeshift anti-materiel rifle.  Its chain-driven mechanism "
+"has been removed, reducing weight in exchange for converting it into a "
+"single-shot design.  Still extremely bulky, requiring it to be deployed or "
+"mounted on a vehicle."
+msgstr ""
+
+#: ./items.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: ./items.json
+msgid "makeshift 25mm cannon"
+msgid_plural "makeshift 25mm cannon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A makeshift cannon crudely chambered for 25x137mm, with a short thick-walled"
+" barrel and a breechblock fashioned out of hardened steel.  Very unreliable "
+"and massively reduces performance, but simpler to install and easier to "
+"repair.  Only holds a single shot, and must be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "M246 120mm tank gun"
+msgid_plural "M246 120mm tank gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A version of the Rheinmetall Rh-120, this 120mm cannon is most notably used "
+"in the M1 Abhrams.  Uses electric ignition, and obviously needs to be "
+"mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "XM246E1 autoloading tank gun"
+msgid_plural "XM246E1 autoloading tank gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"An experimental variant of the Rheinmetall Rh-120, this 120mm cannon is "
+"equipped with a 5-round autoloader.  Uses electric ignition, and obviously "
+"needs to be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json ./parts.json
+msgid "makeshift 120mm tank gun"
+msgid_plural "makeshift 120mm tank gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A makeshift cannon crudely chambered for 120mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very"
+" unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "M68 105mm tank gun"
+msgid_plural "M68 105mm tank gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A version of the Royal Ordinance L7, this 105mm rifled cannon is used in "
+"various armored vehicles worldwide, many no longer in service, some still in"
+" use, and some brought back out of reserve in the desperate last days before"
+" the world ended.  Uses electric ignition, and obviously needs to be mounted"
+" on a vehicle to fire."
+msgstr ""
+
+#: ./items.json ./parts.json
+msgid "makeshift 105mm tank gun"
+msgid_plural "makeshift 105mm tank gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A makeshift cannon crudely chambered for 105mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very"
+" unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "M284 howitzer"
+msgid_plural "M284 howitzer"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A 155mm cannon designed for self-propelled guns such as the M109.  Obviously"
+" it needs to be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json ./parts.json
+msgid "makeshift 155mm howitzer"
+msgid_plural "makeshift 155mm howitzer"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A makeshift cannon crudely chambered for 155mm artillery shells, with a "
+"short thick-walled barrel and a breechblock fashioned out of hardened steel."
+"  Very unreliable and massively reduces performance, but simpler to install "
+"and easier to repair.  Only holds a single shot, and must be mounted on a "
+"vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "BGM-71F TOW Under Armor"
+msgid_plural "BGM-71F TOW Under Armor"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"A twin-tube launcher for anti-tank guided missiles, specifically designed "
+"for vehicle use.  While fairly accurate, it isn't fire-and-forget.  "
+"Obviously it needs to be mounted on a vehicle to fire."
+msgstr ""
+
+#: ./items.json
+msgid "Artillery and Field Gunnery"
+msgid_plural "copies of Artillery and Field Gunnery"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Artillery and Field Gunnery', 'str_pl': 'copies
+#. of Artillery and Field Gunnery'}
+#: ./items.json
+msgid ""
+"A textbook on the history of modern artillery, with a number of "
+"illustrations and excerpts from various field manuals.  A competent "
+"handloader or mechanic might find additional uses for the more technical "
+"parts of the text."
+msgstr ""
+
+#: ./items.json
+msgid "XM246E1 monster tank gun"
+msgid_plural "XM246E1 monster tank guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items.json
+msgid ""
+"This exists to alter the dispersion of the new tank drone.  This is a bug if"
+" you find one of these."
+msgstr ""
+
+#: ./items.json
+msgid "broken Mini-Tank UAFV"
+msgid_plural "broken Mini-Tank UAFVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken Mini-Tank UAFV'}
+#: ./items.json
+msgid ""
+"A hulking wreck of treads, composite plating, and cold robotic hatred.  "
+"Hopefully won't ever be operational again, now only good for parts."
+msgstr ""
+
+#: ./items.json
+msgid "Rubber Caterpillar Track"
+msgid_plural "Rubber Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rubber Caterpillar Track'}
+#: ./items.json
+msgid ""
+"A short, interlocking set of hard rubber tracks reinforced by stiff wire "
+"held in place by a set of smaller wheels.  Similar with what you might see "
+"used on light construction vehicles.  It's significantly stronger than "
+"regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+
+#: ./items.json
+msgid "Steel Caterpillar Track"
+msgid_plural "Steel Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Steel Caterpillar Track'}
+#: ./items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on large construction "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is very heavy."
+msgstr ""
+
+#: ./items.json
+msgid "Reinforced Caterpillar Track"
+msgid_plural "Reinforced Caterpillar Tracks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Reinforced Caterpillar Track'}
+#: ./items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on APCs and armored "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is extremely heavy."
+msgstr ""
+
+#: ./modinfo.json
+msgid "Tankmod: Revived"
+msgstr ""
+
+#. ~ Description for Tankmod: Revived
+#: ./modinfo.json
+msgid ""
+"The intended successor of my older, obsoleted Tanks and Other Vehicles mod."
+msgstr ""
+
+#: ./monsters.json
+msgid "XM246E1 Mini-Tank UAFV"
+msgid_plural "XM246E1 Mini-Tank UAFVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XM246E1 Mini-Tank UAFV'}
+#: ./monsters.json
+msgid ""
+"An experimental, heavily armored UGV the size of a small vehicle, its "
+"structure dominated by a bulky 120mm main gun.  It trundles along on armored"
+" treads, ponderous yet implacable.  If it's taking aim at you… run."
+msgstr ""
+
+#: ./monsters.json
+msgid "The mini-tank fires its 120mm gun!"
+msgstr ""
+
+#: ./parts.json
+msgid "120mm tank gun"
+msgstr ""
+
+#: ./parts.json
+msgid "120mm autoloading tank gun"
+msgstr ""
+
+#: ./parts.json
+msgid "105mm tank gun"
+msgstr ""
+
+#: ./parts.json
+msgid "155mm howitzer"
+msgstr ""
+
+#: ./parts.json
+msgid "ATGM turret"
+msgstr ""
+
+#: ./parts.json
+msgid "25mm chaingun"
+msgstr ""
+
+#: ./parts.json
+msgid "stripped-down 25mm gun"
+msgstr ""
+
+#: ./parts.json
+msgid "makeshift25mm cannon"
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_male"
+msgid "Tank Driver"
+msgstr ""
+
+#. ~ Profession (male Tank Driver) description
+#: ./professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_female"
+msgid "Tank Driver"
+msgstr ""
+
+#. ~ Profession (female Tank Driver) description
+#: ./professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_male"
+msgid "Tank Gunner"
+msgstr ""
+
+#. ~ Profession (male Tank Gunner) description
+#: ./professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no"
+" one left to spot targets for you."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_female"
+msgid "Tank Gunner"
+msgstr ""
+
+#. ~ Profession (female Tank Gunner) description
+#: ./professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no"
+" one left to spot targets for you."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_male"
+msgid "Tank Loader"
+msgstr ""
+
+#. ~ Profession (male Tank Loader) description
+#: ./professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all"
+" the work yourself."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_female"
+msgid "Tank Loader"
+msgstr ""
+
+#. ~ Profession (female Tank Loader) description
+#: ./professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all"
+" the work yourself."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_male"
+msgid "Tank Commander"
+msgstr ""
+
+#. ~ Profession (male Tank Commander) description
+#: ./professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+
+#: ./professions.json
+msgctxt "profession_female"
+msgid "Tank Commander"
+msgstr ""
+
+#. ~ Profession (female Tank Commander) description
+#: ./professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+
+#. ~ Name for scenario 'Armored Apocalypse' for a male character
+#: ./scenarios.json
+msgctxt "scenario_male"
+msgid "Armored Apocalypse"
+msgstr ""
+
+#. ~ Name for scenario 'Armored Apocalypse' for a female character
+#: ./scenarios.json
+msgctxt "scenario_female"
+msgid "Armored Apocalypse"
+msgstr ""
+
+#. ~ Description for scenario 'Armored Apocalypse' for a male character.
+#: ./scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+
+#. ~ Description for scenario 'Armored Apocalypse' for a female character.
+#: ./scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+
+#. ~ Starting location for scenario 'Armored Apocalypse'.
+#: ./scenarios.json
+msgctxt "start_name"
+msgid "Radio Tower"
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"\"Tank drone, meet the real deal.  See how you handle 120 millimeters of "
+"HELL YEAH!\""
+msgstr ""
+
+#: ./snippets.json
+msgid "\"big fucking gun, earplugs are good for your brain\""
+msgstr ""
+
+#: ./snippets.json
+msgid "\"I have a bicycle-mounted tank cannon.  Your argument is invalid.\""
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"\"Next person to call this infantry fighting vehicle a 'tank' is walking "
+"home.\""
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"\"Found what used to be an armored platoon.  I don't want to find out what "
+"did them in.\""
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"EXPERIMENTAL TANKS TO ENTER FIELD TESTS - A press release yesterday from the"
+" Department of Defense has confirmed plans for a series of field tests for a"
+" new model of light tank, currently designated the XM7 Tankette.  A major "
+"departure from previous armor doctrine, the experimental design features a "
+"long-range electric engine and a state-of-the-art autoloader, recently "
+"upgraded to fit a 120mm main gun.  Most notable was the confirmation of a "
+"one-man crew compartment, with mention of advanced fire control and sensors "
+"rendering a commander and gunner unnecessary.  According to General "
+"Dabrowski, \"These aren't expected to replace the venerable Abrams, instead "
+"we're expecting them to find a new niche for urban warfare.  We're hoping in"
+" about a year these will cost a fourth as much as an Abrams to produce while"
+" having the same level of firepower.  For the same number of soldiers it'd "
+"take to crew one tank, we could have four of these all supporting each "
+"other, each monitoring the situation and calling in targets.\""
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"ROBOT TANK UNVEILED - A recent press conference has confirmed the latest "
+"development in AI-driven defense systems.  Much of the details remain "
+"classified, other than the new project having only recently entered early "
+"testing.  \"We've refined some of the developments that went into the XM7 "
+"Tankette to fit an even more compact package.\" says the update, in "
+"reference to the experimental light tank program to see increased production"
+" and formal adoption in the coming months.  \"We're exploring uncharted "
+"territory with the autonomous fire control, nothing we've put into use so "
+"far has handled anything as large as a tank cannon.  Once we have all the "
+"kinks worked out we'll proceed with the next wave of trials.  We should have"
+" a working dual-core AI ready by the end of the year that can handle both "
+"the main gun and an M2 Browning, but for now we're focusing on the main "
+"gun.\""
+msgstr ""
+
+#: ./snippets.json
+msgid ""
+"PATTON TANKS TO BE RESTORED - Amid rumors of war on the horizon and growing "
+"unrest, a recent new briefing outlined an emergency plan to restore and "
+"rearm several M60 Patton main battle tanks, with roughly two hundred "
+"projected to be available across the New England region within the coming "
+"weeks.  Officials refused to clarify the purpose of this rearmament program,"
+" leaving speculation that the move is an unintentional confirmation of an "
+"impending Chinese invasion.  According to an anonymous source within the "
+"military, \"They don't expect them to be facing Type 96 or 99 tanks.  "
+"They'll likely be used to engage IFVs such as the Type 08 or the Type 15 "
+"light tank.\""
+msgstr ""
+
+#: ./speech.json
+msgid "hummm!"
+msgstr ""
+
+#: ./speech.json
+msgid "whirrr!"
+msgstr ""
+
+#: ./speech.json
+msgid "the trundle of machinery."
+msgstr ""
+
+#: ./speech.json
+msgid "the creaking of steel treads."
+msgstr ""
+
+#: ./speech.json
+msgid "the metallic squeal of tank tracks!"
+msgstr ""
+
+#: ./start_locations.json
+msgid "Radio Tower"
+msgstr ""
+
+#: ./treads.json
+msgid "rubber treads"
+msgstr ""
+
+#. ~ Description for {'str': 'rubber treads'}
+#. ~ Description for {'str': 'steel treads'}
+#. ~ Description for {'str': 'tank treads'}
+#: ./treads.json
+msgid ""
+"A section of continuous track, the kind mounted on construction vehicles and"
+" military fighting vehicles.  It acts as a wheel, and the broad surface "
+"provides plenty of traction to move heavy vehicles off-road, but at the cost"
+" of speed due to the heavy weight."
+msgstr ""
+
+#: ./treads.json
+msgid "steel treads"
+msgstr ""
+
+#: ./treads.json
+msgid "tank treads"
+msgstr ""
+
+#: ./vehicles.json
+msgid "M1 Abrams Main Battle Tank"
+msgstr ""
+
+#: ./vehicles.json
+msgid "M109 Self-Propelled Howitzer"
+msgstr ""
+
+#: ./vehicles.json
+msgid "M2 Bradley Infantry Fighting Vehicle"
+msgstr ""
+
+#: ./vehicles.json
+msgid "Bandit Bulldozer"
+msgstr ""
+
+#: ./vehicles.json
+msgid "Heavy Planter Tractor"
+msgstr ""
+
+#: ./vehicles.json
+msgid "Heavy Plow Tractor"
+msgstr ""
+
+#: ./vehicles.json
+msgid "Heavy Reaper Tractor"
+msgstr ""
+
+#: ./vehicles.json
+msgid "M60 Patton Main Battle Tank"
+msgstr ""
+
+#: ./vehicles.json
+msgid "XM7 Electric Mini-Tank"
+msgstr ""

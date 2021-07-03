@@ -1,0 +1,316 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: beamswordmod\n"
+"POT-Creation-Date: 2021-07-01 09:07+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: books.json
+msgid "Portal Shard Combat Applications"
+msgid_plural "Portal Shard Combat Applicationss"
+msgstr[0] "руководство \"Боевые применения портальных осколков\""
+msgstr[1] "руководства \"Боевые применения портальных осколков\""
+msgstr[2] "руководств \"Боевые применения портальных осколков\""
+
+#. ~ Description for Portal Shard Combat Applications
+#: books.json
+msgid ""
+"This large Rivtech manual has been marked for destruction, almost everything "
+"in it but the technical specification sections and blueprints blacked out "
+"and unreadable."
+msgstr ""
+"Это большое руководство корпорации \"Ривтех\" было помечено для уничтожения, "
+"почти все в нем, кроме разделов технической спецификации и чертежей, было "
+"зачеркнуто и нечитаемо."
+
+#: crystal-shard.json
+msgid "crystal shard"
+msgid_plural "crystal shards"
+msgstr[0] "клисталлический осколок"
+msgstr[1] "клисталлических осколка"
+msgstr[2] "клисталлических осколков"
+
+#. ~ Description for crystal shard
+#: crystal-shard.json
+msgid ""
+"A shard of crystal that shimmers like the stars and vibrates in your hand "
+"when you grasp it."
+msgstr ""
+"Осколок кристалла, который мерцает, как звезды, и вибрирует, когда вы берете "
+"его в руку."
+
+#: low-level.json
+msgid "beam sword controls"
+msgid_plural "beam sword controlss"
+msgstr[0] "контроллер светового меча"
+msgstr[1] "контроллера светового меча"
+msgstr[2] "контроллеров светового меча"
+
+#. ~ Description for beam sword controls
+#: low-level.json
+msgid "The activation controls for a Rivtech beam sword."
+msgstr "Элементы управления активацией светового меча Ривтех."
+
+#: low-level.json
+msgid "beam sword power cell"
+msgid_plural "beam sword power cells"
+msgstr[0] "энергоячейка светового меча"
+msgstr[1] "энергоячейки светового меча"
+msgstr[2] "энергоячеек светового меча"
+
+#. ~ Description for beam sword power cell
+#: low-level.json
+msgid "A heavy power cell used to ignite a Rivtech beam sword."
+msgstr ""
+"Мощный энергетический элемент, используемый для зажигания светового меча "
+"Ривтех."
+
+#: low-level.json
+msgid "beam sword portal conductor"
+msgid_plural "beam sword portal conductors"
+msgstr[0] "портальный проводник светового меча"
+msgstr[1] "портальных проводника светового меча"
+msgstr[2] "портальных проводников светового меча"
+
+#. ~ Description for beam sword portal conductor
+#: low-level.json
+msgid "The portal field conductor used in a Rivtech beam sword."
+msgstr ""
+"Портально-пространственный проводник, используемый в световом мече Ривтех."
+
+#: low-level.json
+msgid "beam sword vortex ring"
+msgid_plural "beam sword vortex rings"
+msgstr[0] "вихревое кольцо светового меча"
+msgstr[1] "вихревых кольца светового меча"
+msgstr[2] "вихревых колец светового меча"
+
+#. ~ Description for beam sword vortex ring
+#: low-level.json
+msgid ""
+"An extremely delicate yet complex set of interlocking cogs used to help "
+"power a Rivtech beam sword."
+msgstr ""
+"Очень тонкий, но сложный набор взаимосвязанных механизмов, используемых для "
+"питания лучевого меча Ривтех."
+
+#: low-level.json
+msgid "beam sword power insulator"
+msgid_plural "beam sword power insulators"
+msgstr[0] "силовой изолятор светового меча"
+msgstr[1] "силовых изолятора светового меча"
+msgstr[2] "силовых изоляторов светового меча"
+
+#. ~ Description for beam sword power insulator
+#: low-level.json
+msgid "A ceramic power shielding unit from a Rivtech beam sword."
+msgstr "Керамический элемент силового щита от лучевого меча Ривтех."
+
+#: low-level.json
+msgid "beam sword energy gate"
+msgid_plural "beam sword energy gates"
+msgstr[0] "отражатель светового меча"
+msgstr[1] "отражателя светового меча"
+msgstr[2] "отражателей светового меча"
+
+#. ~ Description for beam sword energy gate
+#: low-level.json
+msgid ""
+"A light absorbing case of shimmering, slow moving liquid used to guide power "
+"in Rivtech beam sword."
+msgstr ""
+"Светопоглощающий корпус из мерцающей, медленно движущейся жидкости, "
+"используемый для направления энергии в световом мече Rivtech."
+
+#: low-level.json
+msgid "beam sword recharge socket"
+msgid_plural "beam sword recharge sockets"
+msgstr[0] "разъем для подзарядки светового меча"
+msgstr[1] "разъема для подзарядки светового меча"
+msgstr[2] "разъемов для подзарядки светового меча"
+
+#. ~ Description for beam sword recharge socket
+#: low-level.json
+msgid "Power connection ports to be installed in a Rivtech beam sword."
+msgstr "Порты для подключения питания, устанавливаемые в световой меч Ривтех."
+
+#: low-level.json
+msgid "beam sword focusing chamber"
+msgid_plural "beam sword focusing chambers"
+msgstr[0] "фокусирующая камера светового меча"
+msgstr[1] "фокусирующие камеры светового меча"
+msgstr[2] "фокусирующих камер светового меча"
+
+#. ~ Description for beam sword focusing chamber
+#: low-level.json
+msgid "A focusing chamber for the blade on a Rivtech beam sword."
+msgstr "Фокусирующая камера лезвия в световом мече Ривтех."
+
+#: low-level.json
+msgid "beam sword blade energy channel"
+msgid_plural "beam sword blade energy channels"
+msgstr[0] "энерго-канал светового меча"
+msgstr[1] "энерго-канала светового меча"
+msgstr[2] "энерго-каналов светового меча"
+
+#. ~ Description for beam sword blade energy channel
+#: low-level.json
+msgid ""
+"The energy channel the portal beam passes through on a Rivtech beam sword."
+msgstr ""
+"Энергетический канал, через который поток энергии проходит в световом мече "
+"Ривтех."
+
+#: low-level.json
+msgid "beam sword cycling field energizer"
+msgid_plural "beam sword cycling field energizers"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. ~ Description for beam sword cycling field energizer
+#: low-level.json
+msgid ""
+"The field energizer that keeps the blade ignited on a Rivtech beam sword."
+msgstr ""
+
+#: low-level.json
+msgid "beam sword energy modulation circuit"
+msgid_plural "beam sword energy modulation circuits"
+msgstr[0] "микросхема энергетической модуляции в световом мече"
+msgstr[1] "микросхемы энергетической модуляции в световом мече"
+msgstr[2] "микросхем энергетической модуляции в световом мече"
+
+#. ~ Description for beam sword energy modulation circuit
+#: low-level.json
+msgid "An energy modulation circuit for the blade on a Rivtech beam sword."
+msgstr "Схема модуляции энергии для лезвия на лучевом мече Ривтех."
+
+#: low-level.json
+msgid "beam sword focusing lens"
+msgid_plural "beam sword focusing lenss"
+msgstr[0] "фокусирующая линза светового меча"
+msgstr[1] "фокусирующие линзы светового меча"
+msgstr[2] "фокусирующих линз светового меча"
+
+#. ~ Description for beam sword focusing lens
+#: low-level.json
+msgid ""
+"A lens to help ignite and then focus the blade emitted from a Rivtech beam "
+"sword."
+msgstr ""
+"Линза, помогающая зажечь и затем сфокусировать лезвие, испускаемое световым "
+"мечом Ривтех."
+
+#: low-level.json
+msgid "beam sword emitter matrix"
+msgid_plural "beam sword emitter matrixs"
+msgstr[0] "матрица излучателя светового меча"
+msgstr[1] "матрицы излучателя светового меча"
+msgstr[2] "матриц излучателя светового меча"
+
+#. ~ Description for beam sword emitter matrix
+#: low-level.json
+msgid ""
+"A highly dangerous component of a Rivtech beam sword used to keep the blade "
+"from igniting the atmosphere."
+msgstr ""
+"Очень важный компонент светового меча Ривтех, используемый для того, чтобы "
+"клинок не воспламенил атмосферу."
+
+#: low-level.json
+msgid "beam sword high energy flux aperture"
+msgid_plural "beam sword high energy flux apertures"
+msgstr[0] "потоковое отверстие светового луча"
+msgstr[1] "потоковых отверстия светового луча"
+msgstr[2] "потоковых отверстий светового луча"
+
+#. ~ Description for beam sword high energy flux aperture
+#: low-level.json
+msgid ""
+"A series of ever-looping circuity from a Rivtech beam sword that hurts your "
+"eyes to try and trace."
+msgstr ""
+"Серия постоянно вращающихся круговых отверстий от светового меча Ривтех, на "
+"которые больно смотреть, если пытатся за ними уследить."
+
+#: melee.json
+msgid "rivtech beam sword"
+msgid_plural "rivtech beam swords"
+msgstr[0] "световой меч Ривтех"
+msgstr[1] "световых меча Ривтех"
+msgstr[2] "световых мечей Ривтех"
+
+#. ~ Description for {'str': 'rivtech beam sword'}
+#: melee.json
+msgid "Totally not a lightsaber."
+msgstr "Точно не световой меч."
+
+#: modinfo.json
+msgid "Rivtech Beam Swords"
+msgstr "Rivtech Beam Swords"
+
+# Не стал переводить RivTech, на КатаВики написано что это юридическое лицо, которое производит оружие, а так же товары с атомным питанием
+# Ривтех переводится внутри игры
+#. ~ Description for Rivtech Beam Swords
+#: modinfo.json
+msgid "Adds the Rivtech beam sword, a powerful constructible endgame weapon."
+msgstr ""
+"Добавляет световой меч «Ривтех», мощное конструируемое оружие эндгейма."
+
+#: top-level.json
+msgid "beam sword outer casing"
+msgid_plural "beam sword outer casings"
+msgstr[0] "внешний корпус светового меча"
+msgstr[1] "внешних корпуса светового меча"
+msgstr[2] "внешних корпусов светового меча"
+
+#. ~ Description for beam sword outer casing
+#: top-level.json
+msgid "The outer casing for a Rivtech beam sword."
+msgstr "Внешний корпус светового меча Ривтех."
+
+#: top-level.json
+msgid "beam sword power assembly"
+msgid_plural "beam sword power assemblys"
+msgstr[0] "узел питания светового меча"
+msgstr[1] "узла питания светового меча"
+msgstr[2] "узлов питания светового меча"
+
+#. ~ Description for beam sword power assembly
+#: top-level.json
+msgid "The completed power assembly for a Rivtech beam sword."
+msgstr "Готовый узел питания светового меча Ривтех."
+
+#: top-level.json
+msgid "beam sword focusing assembly"
+msgid_plural "beam sword focusing assemblys"
+msgstr[0] "узел фокусировки светового меча"
+msgstr[1] "узла фокусировки светового меча"
+msgstr[2] "узлов фокусировки светового меча"
+
+#. ~ Description for beam sword focusing assembly
+#: top-level.json
+msgid "The completed focusing assembly for a Rivtech beam sword."
+msgstr "Готовый узел фокусировки светового меча Ривтех."
+
+#: top-level.json
+msgid "beam sword blade emitter"
+msgid_plural "beam sword blade emitters"
+msgstr[0] "излучатель  светового меча"
+msgstr[1] "излучателя светового меча"
+msgstr[2] "излучателей светового меча"
+
+#. ~ Description for beam sword blade emitter
+#: top-level.json
+msgid "The blade emitter for a Rivtech beam sword."
+msgstr "Излучатель лучевого меча Ривтех."

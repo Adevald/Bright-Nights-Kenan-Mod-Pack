@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: powder_disinfectant\n"
+"POT-Creation-Date: 2021-07-01 14:22+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: items.json
+msgid "powdered disinfectant"
+msgid_plural "powdered disinfectants"
+msgstr[0] "порошкообразное дезинфицирующее средство"
+msgstr[1] "порошкообразное дезинфицирующее средство"
+msgstr[2] "порошкообразное дезинфицирующее средство"
+
+#. ~ Description for powdered disinfectant
+#: items.json
+msgid ""
+"A powdered form of disinfectant. Could be used as a disinfectant, or mixed "
+"with water to become disinfectant"
+msgstr ""
+"Порошкообразная форма дезинфицирующего средства. Может использоваться как "
+"дезинфицирующее средство или смешиваться с водой для получения "
+"дезинфицирующего средства"
+
+#: modinfo.json
+msgid "Disinfectant Powder"
+msgstr "Disinfectant Powder"
+
+#. ~ Description for Disinfectant Powder
+#: modinfo.json
+msgid "Adds powdered disinfectant.."
+msgstr "Добавляет порошкообразное дезинфицирующее средство.."
