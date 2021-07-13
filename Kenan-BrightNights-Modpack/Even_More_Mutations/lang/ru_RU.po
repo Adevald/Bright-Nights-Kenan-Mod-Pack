@@ -1,0 +1,465 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: even_more_mutations\n"
+"POT-Creation-Date: 2021-07-12 17:37+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: EMM_dreams.json
+msgid "You have a strange dream about crabs."
+msgstr "Вам приснился странный сон о крабах."
+
+#: EMM_dreams.json
+msgid "Your dreams give you a strange shelled feeling."
+msgstr "Ваши сны вызывают у вас странные ощущения."
+
+#: EMM_dreams.json
+msgid "You dream of walking on a sandy beach."
+msgstr "Вам снится, что вы гуляете по песчаному пляжу."
+
+#: EMM_dreams.json
+msgid ""
+"For some reason you dream of your gloves.  They don't fit, and nothing seems "
+"to help..."
+msgstr ""
+"По какой-то причине вам снятся ваши перчатки.  Они на вас не могут налезть, "
+"и ничто не может помочь..."
+
+#: EMM_dreams.json
+msgid "You have a disturbing dream of walking sideways all the time."
+msgstr "Вам снится тревожный сон о том, что вы все время ходите боком."
+
+#: EMM_dreams.json
+msgid "Your vivid dream of living as a crab frightens you."
+msgstr "Яркий сон о жизни в образе краба пугает вас."
+
+#: EMM_dreams.json
+msgid "You dream of pinching zombies with your claws."
+msgstr "Вам снится, как вы щипаете зомби своими клешнями."
+
+#: EMM_dreams.json
+msgid "You have a vivid dream of shedding your carapace. It feels good."
+msgstr ""
+"Вам снится яркий сон о том, как вы сбрасываете свой панцирь. Ощущения "
+"приятные."
+
+#: EMM_dreams.json
+msgid "You have a strange dream about snakes."
+msgstr "Вам приснился странный сон о змеях."
+
+#: EMM_dreams.json
+msgid "Your dreams give you a strange slithery feeling."
+msgstr "Ваши сны вызывают у вас странное ощущение скольжения."
+
+#: EMM_dreams.json
+msgid "You have a weird dream of slithering on the ground."
+msgstr "Вам снится странный сон, в котором вы скользите по земле."
+
+#: EMM_dreams.json
+msgid "In your dream, you see a strangely serpentine image of yourself."
+msgstr "Во сне вы видите странный змеевидный образ себя."
+
+#: EMM_dreams.json
+msgid "You have a terrifying dream of losing your legs."
+msgstr "Вам снится страшный сон о том, что вы потеряли ноги."
+
+#: EMM_dreams.json
+msgid "You dream of silently moving in shadows."
+msgstr "Вам снится, что вы бесшумно двигаетесь в тенях."
+
+#: EMM_dreams.json
+msgid "You have a pleasant dream of coiling around your prey."
+msgstr "Вам снится приятный сон о том, как вы обвиваетесь вокруг своей добычи."
+
+#: EMM_dreams.json
+msgid "You have a scary dream of running out of venom."
+msgstr "Вам снится страшный сон о том, что у вас закончился яд."
+
+#: EMM_dreams.json
+msgid "You have a strange dream about rabbits."
+msgstr "Вам приснился странный сон о кроликах."
+
+#: EMM_dreams.json
+msgid "Your dreams give you a strange twitchy feeling."
+msgstr "Ваши сны вызывают у вас странные судорожные ощущения."
+
+#: EMM_dreams.json
+msgid "You dream of walking on a grassy meadow."
+msgstr "Вам снится, что вы гуляете по травянистому лугу."
+
+#: EMM_dreams.json
+msgid "In your dream, you look in the mirror and see a rabbit."
+msgstr "Во сне вы смотрите в зеркало и видите кролика."
+
+#: EMM_dreams.json
+msgid "You have a weird dream of carelessly jumping around."
+msgstr "Вам снится странный сон, в котором вы беззаботно прыгаете по земле."
+
+#: EMM_dreams.json
+msgid "You have a terrifying dream of being chased by a fox."
+msgstr "Вам приснился страшный сон о том, что вас преследует лиса."
+
+#: EMM_dreams.json
+msgid "You have a blissful dream of eating carrots all day."
+msgstr "Вам снится блаженный сон о том, что вы целый день едите морковь."
+
+#: EMM_dreams.json
+msgid "You have a pleasant dream of having your ears fondled and massaged."
+msgstr "Вам снится приятный сон о том, что ваши уши ласкают и массируют."
+
+#: EMM_mutagen.json
+msgid "crab serum"
+msgid_plural "crab serums"
+msgstr[0] "сыворотка краба"
+msgstr[1] "сыворотка краба"
+msgstr[2] "сыворотка краба"
+
+#: EMM_mutagen.json
+msgid "crab mutagen"
+msgid_plural "crab mutagens"
+msgstr[0] "мутаген краба"
+msgstr[1] "мутаген краба"
+msgstr[2] "мутаген краба"
+
+#: EMM_mutagen.json
+msgid "snake serum"
+msgid_plural "snake serums"
+msgstr[0] "сыворотка змеи"
+msgstr[1] "сыворотка змеи"
+msgstr[2] "сыворотка змеи"
+
+#: EMM_mutagen.json
+msgid "snake mutagen"
+msgid_plural "snake mutagens"
+msgstr[0] "мутаген змеи"
+msgstr[1] "мутаген змеи"
+msgstr[2] "мутаген змеи"
+
+#: EMM_mutagen.json
+msgid "rabbit serum"
+msgid_plural "rabbit serums"
+msgstr[0] "сыворотка кролика"
+msgstr[1] "сыворотка кролика"
+msgstr[2] "сыворотка кролика"
+
+#: EMM_mutagen.json
+msgid "rabbit mutagen"
+msgid_plural "rabbit mutagens"
+msgstr[0] "мутаген кролика"
+msgstr[1] "мутаген кролика"
+msgstr[2] "мутаген кролика"
+
+#. ~ Mutation class name
+#.
+#: EMM_mutation_category.json EMM_mutations.json
+msgid "Crab"
+msgstr "Краб"
+
+#. ~ Mutation class: Crab mutagen_message
+#: EMM_mutation_category.json
+msgid "You suddenly want to start walking sideways."
+msgstr "Вам вдруг захотелось начать ходить боком."
+
+#. ~ Mutation class: Crab iv_message
+#: EMM_mutation_category.json
+msgid "You clench your fists uncontrollably."
+msgstr "Вы неконтролируемо сжимаете кулаки."
+
+#. ~ Mutation class: Crab Male memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_male"
+msgid "Got crabs."
+msgstr "Крабанулся."
+
+#. ~ Mutation class: Crab Female memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_female"
+msgid "Got crabs."
+msgstr "Крабанулась."
+
+#. ~ Mutation class name
+#.
+#: EMM_mutation_category.json EMM_mutations.json
+msgid "Snake"
+msgstr "Змея"
+
+#. ~ Mutation class: Snake mutagen_message
+#: EMM_mutation_category.json
+msgid "You suddenly let out a hiss"
+msgstr "Вы внезапно издаете шипение"
+
+#. ~ Mutation class: Snake iv_message
+#: EMM_mutation_category.json
+msgid "You feel like your body elongates."
+msgstr "Вы чувствуете, что ваше тело удлиняется."
+
+#. ~ Mutation class: Snake Male memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_male"
+msgid "Slithered away."
+msgstr "Сбросил шкуру."
+
+#. ~ Mutation class: Snake Female memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_female"
+msgid "Slithered away."
+msgstr "Сбросила шкуру."
+
+#. ~ Mutation class name
+#.
+#: EMM_mutation_category.json EMM_mutations.json
+msgid "Rabbit"
+msgstr "Кролик"
+
+#. ~ Mutation class: Rabbit mutagen_message
+#: EMM_mutation_category.json
+msgid "You suddenly want to eat carrots."
+msgstr "Вам вдруг захотелось поесть морковки."
+
+#. ~ Mutation class: Rabbit iv_message
+#: EMM_mutation_category.json
+msgid "You feel like your nose starts twitching uncontrollably."
+msgstr "Вы чувствуете, что ваш нос начинает неконтролируемо дергаться."
+
+#. ~ Mutation class: Rabbit Male memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_male"
+msgid "Hopped away."
+msgstr "Ускакал."
+
+#. ~ Mutation class: Rabbit Female memorial messsage
+#: EMM_mutation_category.json
+msgctxt "memorial_female"
+msgid "Hopped away."
+msgstr "Ускакал."
+
+# В гугле существо, которое линяет, может так и назвать Линька или Шелушка?
+#: EMM_mutations.json
+msgid "Ecdysis"
+msgstr "Линька"
+
+#. ~ Description for {'str': 'Ecdysis'}
+#: EMM_mutations.json
+msgid ""
+"If you feel like your exoskeleton is getting too tight, you may choose to "
+"shed it. Doing so will produce chitin chunks, useful for crafting. Activate "
+"to shed your carapace."
+msgstr ""
+"Если вам кажется, что ваш экзоскелет стал слишком тесным, вы можете сбросить "
+"его. При этом вы получите куски хитина, полезные для ремесла. Активируйте, "
+"чтобы сбросить панцирь."
+
+#: EMM_mutations.json
+msgid "You shed your old exoskeleton. You are feeling fresh."
+msgstr "Вы сбросили свой старый экзоскелет. Вы чувствуете себя обновленным."
+
+#: EMM_mutations.json
+msgid "Chitinous Carapace"
+msgstr "Хитиновый панцирь"
+
+#. ~ Description for {'str': 'Chitinous Carapace'}
+#: EMM_mutations.json
+msgid ""
+"Your body is covered with a thick, impenetrable red carapace. It provides "
+"unmatched physical protection and even some protection from corrosive "
+"chemicals, but reduces your dexterity by 3 and severely encumbers all body "
+"parts but your eyes.  Greatly reduces wet effects."
+msgstr ""
+"Ваше тело покрыто толстым, непроницаемым красным панцирем. Он обеспечивает "
+"непревзойденную физическую защиту и даже некоторую защиту от едких "
+"химикатов, но снижает вашу ловкость на 3 и сильно сковывает все части тела, "
+"кроме глаз. Значительно снижает воздействие влаги."
+
+#: EMM_mutations.json
+msgid "Giant Pincer"
+msgstr "Гигантская клешня"
+
+#. ~ Description for {'str': 'Giant Pincer'}
+#: EMM_mutations.json
+msgid ""
+"Instead of your right hand, you now have a giant crab claw. It encumbers you "
+"greatly, but you can occasionally use it in melee combat to deal massive "
+"damage."
+msgstr ""
+"Вместо правой руки у вас теперь гигантская клешня краба. Она сильно "
+"отягощает вас, но иногда вы можете использовать ее в ближнем бою, чтобы "
+"нанести огромный урон."
+
+#: EMM_mutations.json
+msgid "You pinch %s with your giant claw"
+msgstr "Вы щипаете %s вашей гигантской клешней"
+
+#: EMM_mutations.json
+msgid "%1$s pinches %2$s with their giant claw"
+msgstr "%1$s щипает %2$s своей гигантской клешней"
+
+#. ~ Description for {'str': 'Crab'}
+#: EMM_mutations.json
+msgid "Who needs skin when you can have a carapace?"
+msgstr "Кому нужна кожа, когда есть панцирь?"
+
+#. ~ Description for {'str': 'Snake'}
+#: EMM_mutations.json
+msgid "Who needssss legssss anyway?"
+msgstr "Кому вообще нужны ноги?"
+
+#. ~ Description for {'str': 'Rabbit'}
+#: EMM_mutations.json
+msgid "You are so adorable!"
+msgstr "Вы просто прелесть!"
+
+#: EMM_mutations.json
+msgid "Spider Eyes"
+msgstr "Паучьи глаза"
+
+#. ~ Description for Spider Eyes
+#: EMM_mutations.json
+msgid ""
+"You have grown two extra sets of eyes on your forehead. This improves your "
+"perception by 2, though other survivors may react badly."
+msgstr ""
+"У вас на лбу выросли два дополнительных глаза. Это улучшает ваше восприятие "
+"на 2, хотя другие выжившие могут плохо на это отреагировать."
+
+#: EMM_mutations.json
+msgid "Viper Fangs"
+msgstr "Клыки гадюки"
+
+#. ~ Description for {'str': 'Viper Fangs'}
+#: EMM_mutations.json
+msgid ""
+"Your teeth have grown into two-inch-long fangs, perfect for injecting venom. "
+"They allow you to make extra attacks when your mouth is uncovered."
+msgstr ""
+"Ваши зубы выросли в клыки длиной два дюйма, идеально подходящие для "
+"впрыскивания яда. Они позволяют вам совершать дополнительные атаки, когда "
+"рот ничем не прикрыт."
+
+#: EMM_mutations.json
+msgid "You sink your fangs into %s"
+msgstr "Вы вонзаете свои клыки в %s"
+
+#: EMM_mutations.json
+msgid "%1$s sinks their fangs into %2$s"
+msgstr "%1$s вонзает свои клыки в %2$s"
+
+#: EMM_mutations.json
+msgid "Deformed Legs"
+msgstr "Деформированные ноги"
+
+#. ~ Description for {'str': 'Deformed Legs'}
+#: EMM_mutations.json
+msgid "Your legs are badly deformed. Permanent leg encumbrance."
+msgstr "Ваши ноги сильно деформированы. Постоянное сковывание ног."
+
+#: EMM_mutations.json
+msgid "Serpentine Tail"
+msgstr "Змеиный хвост"
+
+#. ~ Description for {'str': 'Serpentine Tail'}
+#: EMM_mutations.json
+msgid ""
+"A massive serpentine tail extends for some body lengths behind you, and your "
+"legs and feet transformed into useless stumps, hanging off your sides. You "
+"can use your tail to crush your enemies, when conditions favor it. Prevents "
+"wearing pants and footgear."
+msgstr ""
+"Массивный змеиный хвост тянется за вами на несколько длин тела, а ваши ноги "
+"и ступни превратились в бесполезные обрубки, свисающие с боков. Вы можете "
+"использовать свой хвост, чтобы раздавить врагов, когда условия "
+"благоприятствуют этому. Не позволяет носить штаны и обувь."
+
+#: EMM_mutations.json
+msgid "You crush %s with your coils"
+msgstr "Вы сокрушаете %s своим хвостом"
+
+#: EMM_mutations.json
+msgid "%1$s crushes %2$s with their coils"
+msgstr "%1$s сокрушает %2$s своим хвостом"
+
+#: EMM_mutations.json
+msgid "Silent Movement"
+msgstr "Бесшумное движение"
+
+#. ~ Description for {'str': 'Silent Movement'}
+#: EMM_mutations.json
+msgid "You know how to move completely silently."
+msgstr "Вы умеете двигаться совершенно бесшумно."
+
+#: EMM_mutations.json
+msgid "Long Neck"
+msgstr "Длинная шея"
+
+#. ~ Description for Long Neck
+#: EMM_mutations.json
+msgid "Your neck is unusually elongated.  This has no effect."
+msgstr "Ваша шея необычайно вытянута.  Это не имеет никакого эффекта."
+
+#: EMM_mutations.json
+msgid "Cobra's Hood"
+msgstr "Капюшон кобры"
+
+#. ~ Description for {'str': "Cobra's Hood"}
+#: EMM_mutations.json
+msgid ""
+"You have a hood on your neck, like a cobra's. It looks striking, but makes "
+"you better at intimidating. Adds a slight head encumbrance."
+msgstr ""
+"У вас на шее капюшон, как у кобры. Это выглядит довольно устрашающе, что "
+"помогает вам лучше запугивать. Добавляет небольшое сковывание головы."
+
+#: EMM_mutations.json
+msgid "Soft Fur"
+msgstr "Мягкий мех"
+
+#. ~ Description for {'str': 'Soft Fur'}
+#: EMM_mutations.json
+msgid ""
+"You've got an incredibly soft fur, and it's very pleasant to touch. It "
+"provides some protection from cold, and makes persuading other survivors "
+"easier."
+msgstr ""
+"У вас невероятно мягкий мех, и к нему очень приятно прикасаться. Он "
+"обеспечивает некоторую защиту от холода и облегчает убеждение других "
+"выживших."
+
+#: EMM_mutations.json
+msgid "Rabbit Feet"
+msgstr "Кроличьи лапки"
+
+#. ~ Description for {'str': 'Rabbit Feet'}
+#: EMM_mutations.json
+msgid ""
+"Your feet have grown really big, and look exactly like a rabbit's. Prevents "
+"wearing shoes."
+msgstr ""
+"Ваши ноги стали очень большими и похожи на ноги кролика. Не позволяет носить "
+"обувь."
+
+#: EMM_mutations.json
+msgid "Absent Minded"
+msgstr "Отсутствующий разум"
+
+#. ~ Description for {'str': 'Absent Minded'}
+#: EMM_mutations.json
+msgid "You are not too bright, and you get distracted easily. Intelligence - 2"
+msgstr "Вы не слишком сообразительны и легко отвлекаетесь. Интеллект -2"
+
+#: modinfo.json
+msgid "Even More Mutations"
+msgstr "Even More Mutations"
+
+#. ~ Description for Even More Mutations
+#: modinfo.json
+msgid "Adds three new mutation branches and minor changes to existing ones."
+msgstr ""
+"Добавляет три новые ветви мутации и незначительные изменения в существующих."
